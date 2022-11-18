@@ -11,4 +11,4 @@ dados de uma empresa de exportação fictícia, a partir de uma API criada pelo 
 
 #### Fluxograma do trabalho:
 
-![image](https://user-images.githubusercontent.com/59098432/202801858-e7425e86-fc1a-4d30-b20a-d54d7dbc94ae.png)
+![image](https://user-images.githubusercontent.com/59098432/202803859-7bb55d71-c88a-4496-804d-fbab63feecb8.png)
