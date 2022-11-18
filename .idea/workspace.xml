@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="991d2184-b7f5-42e2-aa49-1e68942e11cf" name="Changes" comment="" />
+    <list default="true" id="991d2184-b7f5-42e2-aa49-1e68942e11cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ph_functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ph_functions.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
