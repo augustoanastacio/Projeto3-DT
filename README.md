@@ -1,19 +1,14 @@
 ## Projeto Módulo III - Diversidade Tech
  
-#### Pessoa 1 - Yana 
-- Apresentação
-- Fluxograma
-- Tratamento
+# Análise de Dados com Pandas
 
-#### Pessoa 2 - Lucas 
-- Função de precificação
+This repository was made to the third project of the Program Diversidade Tech, offered by Ada with Suzano. The objetive is to explory and analyze data 
+of a fictional exporting company.
 
-#### Pessoa 3 - Paulo
-- Arquivo *all_sales.csv* + gráfico
-- Arquivo *monthly_sales.csv* + gráfico
+Este repositório foi feito para o terceiro projeto do programa Diversidade Tech, ofertado pela Ada em parceria com a Suzao. O objetivo é tratar, explorar e analisar
+dados de uma empresa de exportação fictícia, a partir de uma API criada pelo professor Thiago Medeiros.
 
-#### Pessoa 4 -  Augusto
-- Arquivo *weekly_sales.csv* + gráfico
-- Arquivo *monthly_revenue.csv* + gráfico
 
-#### Qualquer pessoa: análises extras (preferência à pessoa 1)
+#### Fluxograma do trabalho:
+
+![image](https://user-images.githubusercontent.com/59098432/202803859-7bb55d71-c88a-4496-804d-fbab63feecb8.png)
